@@ -1,8 +1,6 @@
 # Terrform-projects
 
-# Terrform-projects
-
-project1:
+# project1:
 
 ## Host A Static Website In AWS S3 And Cloudfront (using terraform)
 
@@ -13,3 +11,4 @@ project1:
 ### Project Overview
 
 <img width="1469" height="756" alt="Project Screenshot" src="https://github.com/user-attachments/assets/6de71635-38b1-4a50-b5d5-f994d07d2ba0" />
+
